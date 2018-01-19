@@ -1,4 +1,8 @@
 Cold and dry but everything is my favourite colour.
 the two moons may be a problem for Wolfman
 but the Mummy will appreciate the lack of humidity
-this line is added by magnetosphere to show an example of conflict (because the collaborator peed on pluto)
+<<<<<<< HEAD
+this line is added by magnetosphere to show an example of conflict
+=======
+this line is added by Andyson to show an example of conflict
+>>>>>>> 7c81e12e8b3f62213d9d161663d82e0111dce374
